@@ -1,4 +1,6 @@
 git init
+git config --global user.name "name"
+git config --gloabal user.email "example@gmail.com"
 git add file-name or --all or .
 git commit -m "message"
 git stash
