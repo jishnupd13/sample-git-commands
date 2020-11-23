@@ -13,4 +13,5 @@ git add remote origin <== https url==>
 git remote 
 git remote -v
 git clone https://github.com/jishnupd13/sample-git-commands.git
+git pull origin branch name
 
