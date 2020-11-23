@@ -1,0 +1,13 @@
+git init
+git add file-name or --all or .
+git commit -m "message"
+git stash
+git status
+git log
+git log --all
+git merge branch
+
+git add remote origin <== https url==>
+git remote 
+git remote -v
+
